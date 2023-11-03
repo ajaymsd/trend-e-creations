@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+.banner-content h1{
+    font-size: 60px;
+    color:#0f172a;
+    font-family: 'Poppins', sans-serif;
+    margin-top:4%;
+    font-weight: bold;
+    line-height: 80px;
+}
+.banner-content p{
+    font-size: 18px;
+    font-family: 'Poppins', sans-serif;
+    line-height: 40px;
+    color:#1e293b;
+}
+.banner-content h1 span{
+    color: #ef4444;
+}
+
+.banner-content .btn1{
+    color: #FFD700;
+	 background-color: #0f172a;
+	 border: 5px solid transparent;
+	 transition: 0.2s ease;
+	 border-radius: 50px;
+     padding: 10px 16px;
+     font-family: 'Nunito Sans', sans-serif;
+}
+.banner-content .btn1:hover{
+    color: #0f172a;
+    background-color: white;
+    transform: scale(1.1);
+    border: 5px solid #FFD700;
+}
+.banner-content .btn2{
+    color: #0f172a;
+	 background-color: #FFD700;
+	 border: 5px solid transparent;
+	 transition: 0.2s ease;
+	 border-radius: 50px;
+     padding: 10px 16px;
+     font-family: 'Nunito Sans', sans-serif;
+ }
+
+ .banner-content .btn2:hover{
+    color: #FFD700;
+    background-color: white;
+    transform: scale(1.1);
+    border: 5px solid #FFD700;
+}
+.banner-img img{
+    height:700px;
+    width:700px;
+}
